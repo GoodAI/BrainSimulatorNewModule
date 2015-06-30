@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BrainSimulator">
-      <HintPath>C:\Program Files\GoodAI\Brain Simulator\BrainSimulator.dll</HintPath>
+    <Reference Include="GoodAI.Platform.Core">
+      <HintPath>C:\Program Files\GoodAI\Brain Simulator\GoodAI.Platform.Core.dll</HintPath>
     </Reference>
     <Reference Include="ManagedCuda, Version=7.0.27.0, Culture=neutral, PublicKeyToken=242d898828717aa0, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

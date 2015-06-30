@@ -7,7 +7,7 @@
     <StartWorkingDirectory>C:\Program Files\GoodAI\Brain Simulator\</StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartArguments>-m "C:\PLEASE_UPDATE_DEBUG_OPTIONS\SampleNewModule\Module\bin\Debug\NewModule.dll"</StartArguments>
+    <StartArguments>-m "C:\PLEASE_UPDATE_DEBUG_OPTIONS\BrainSimulatorNewModule\Module\bin\Debug\NewModule.dll"</StartArguments>
     <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files\GoodAI\Brain Simulator\BrainSimulatorGUI.exe</StartProgram>
     <StartWorkingDirectory>C:\Program Files\GoodAI\Brain Simulator\</StartWorkingDirectory>
