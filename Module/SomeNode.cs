@@ -2,11 +2,11 @@
 using System.ComponentModel;
 using System.Linq;
 
-using BrainSimulator;
-using BrainSimulator.Memory;
-using BrainSimulator.Nodes;
-using BrainSimulator.Task;
-using BrainSimulator.Utils;
+using GoodAI.Core;
+using GoodAI.Core.Memory;
+using GoodAI.Core.Nodes;
+using GoodAI.Core.Task;
+using GoodAI.Core.Utils;
 using ManagedCuda;
 using YAXLib;
 
