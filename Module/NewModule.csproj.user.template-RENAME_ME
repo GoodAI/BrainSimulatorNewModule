@@ -3,13 +3,15 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files\GoodAI\Brain Simulator\BrainSimulator.exe</StartProgram>
-    <StartArguments>-m "C:\PLEASE_UPDATE_DEBUG_OPTIONS\SampleNewModule\Module\bin\Debug\NewModule.dll"</StartArguments>
-    <StartWorkingDirectory>C:\Program Files\GoodAI\Brain Simulator\</StartWorkingDirectory>
+    <StartArguments>-m NewModule.dll</StartArguments>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartArguments>-m "C:\PLEASE_UPDATE_DEBUG_OPTIONS\BrainSimulatorNewModule\Module\bin\Debug\NewModule.dll"</StartArguments>
+    <StartArguments>-m NewModule.dll</StartArguments>
     <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files\GoodAI\Brain Simulator\BrainSimulator.exe</StartProgram>
-    <StartWorkingDirectory>C:\Program Files\GoodAI\Brain Simulator\</StartWorkingDirectory>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
   </PropertyGroup>
 </Project>
